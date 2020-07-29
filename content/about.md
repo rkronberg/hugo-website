@@ -61,9 +61,9 @@ Process quality control<br>
 Production database management</i></li>
 </ul>
 
-For more details please see my [LinkedIn](https://www.linkedin.com/in/rkronberg/) profile.
+For more details, please see Rasmus' [LinkedIn](https://www.linkedin.com/in/rkronberg/) profile.
 
 
 # Publications
 
-A full list of my publications can be found on the [publications](/publications) page.
+A full list of Rasmus' publications can be found on the [publications](/publications) page.
