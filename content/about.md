@@ -66,4 +66,4 @@ For more details please see my [LinkedIn](https://www.linkedin.com/in/rkronberg/
 
 # Publications
 
-A full list of Rasmus' publications can be found on the [publications](/publications) page.
+A full list of my publications can be found on the [publications](/publications) page.
