@@ -19,7 +19,7 @@ Rasmus is a materials modelling and data science enthusiast pursuing a doctoral 
 
 The simulations Rasmus is running are based on the complex mathematical formulations of quantum mechanics, more specifically [density functional theory](https://en.wikipedia.org/wiki/Density_functional_theory), and would not be possible without the usage of [high-performance computing resources](https://research.csc.fi/csc-s-servers) and massively parallel [electronic structure codes](https://www.cp2k.org/). Interpreting the output data requires tailored analyses which Rasmus implements using primarily the Python scientific computing stack. Rasmus has a keen interest also in machine learning methods that he is convinced will advance materials science by enabling high-throughput modelling workflows and enhanced analyses of large datasets.
 
-In his free time, Rasmus practices [Aikido](https://en.wikipedia.org/wiki/Aikido), a Japanese martial art the fundamental principle of which builds on the utilization and redirection of an attacker's momentum in order to execute soft counter-techniques with minimal effort and damage inflicted.
+In his free time, Rasmus practices the Japanese martial art [Aikido](https://en.wikipedia.org/wiki/Aikido). The fundamental principle of Aikido builds on the idea of harmlessly controlling an attacker's actions using soft counter-techniques, such as throws and joint locks, enabled by the utilization and redirection of the attacker's own momentum.
 
 # Education
 
