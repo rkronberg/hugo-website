@@ -61,7 +61,7 @@ Process quality control<br>
 Production database management</i></li>
 </ul>
 
-For more details, please see Rasmus' [LinkedIn](https://www.linkedin.com/in/rkronberg/) profile.
+Find out more on Rasmus' [LinkedIn](https://www.linkedin.com/in/rkronberg/) profile.
 
 
 # Publications
