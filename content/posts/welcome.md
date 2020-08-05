@@ -3,11 +3,10 @@ title: "Welcome!"
 date: 2020-07-28T11:52:59+03:00
 draft: false
 toc: false
-images:
-tags: 
-  - website
-  - hugo
-  - github-pages
+tags:
+- website
+- hugo
+- github-pages
 ---
 
 Hello and welcome to my personal website/portfolio/blog! I'm [Rasmus](/about), a Finnish computational chemist pursuing a doctoral degree at Aalto University. This website will serve as a platform showcasing my background and interests, past and ongoing research projects and perhaps some more extensive blog posts in case I have something on my mind I think would be worth sharing. Stay tuned!

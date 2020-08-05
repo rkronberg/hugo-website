@@ -47,7 +47,7 @@ canonifyurls = true
 
   homeSubtitle = "Computational chemist inspired by the microscopic workings of the world."
   footerCopyright = ' &#183; Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> and <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a>'
-  #bgImg = "cover-v1.2.0.jpg"  # Homepage background-image URL
+  bgImg = "https://res.cloudinary.com/ddplajkvu/image/upload/v1596607245/cover-v1.2.0_oewaxr.jpg"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = "https://github.com/username/repository/commit/"

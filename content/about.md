@@ -8,7 +8,7 @@ metaAlignment: center
 <link rel="stylesheet" href="https://ghcdn.rawgit.org/FortAwesome/Font-Awesome/5.8.1/css/all.min.css">
 <center>
 
-![Rasmus Kronberg](/rasmus_img.jpg)
+![Rasmus Kronberg](https://res.cloudinary.com/ddplajkvu/image/upload/c_scale,q_100,w_200/v1596607680/rasmus_img_crop_gilhm8.jpg)
 **Doctoral Candidate, Computational Chemistry**
 [Aalto University](https://www.aalto.fi/en/department-of-chemistry-and-materials-science/computational-chemistry)
 <i class="fa fa-map-marker-alt"></i> Helsinki, Finland
